@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Anibal Zanutti // Licensed under the MIT License. See LICENSE file for details.
+
 #include <windows.h>
 #include <array>
 #include <sstream>
@@ -201,3 +203,4 @@ salir:
     ReleaseDC(hWnd, hdc);
     return 0;
 }
+
