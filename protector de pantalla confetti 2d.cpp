@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Anibal Zanutti // Licensed under the MIT License. See LICENSE file for details.
+
 #include <windows.h>
 #include <GL/gl.h>
 #include <ctime>
@@ -158,4 +160,5 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int nCmdShow) {
 
     return 0;
 }
+
 
